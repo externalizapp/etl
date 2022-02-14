@@ -1,0 +1,13 @@
+__pycache__/
+venv/
+
+airflow/airflow.db
+airflow/airflow.db-journal
+airflow/airflow.cfg
+airflow/airflow-webserver.pid
+airflow/webserver_config.py
+airflow/standalone_admin_password.txt
+airflow/logs
+
+all.sh
+run.sh
